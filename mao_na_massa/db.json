@@ -1,0 +1,34 @@
+{
+  "alugueis": [
+    {
+      "id": 2,
+      "hospede": "Maria Souza",
+      "plataforma": "Booking",
+      "dataCheckin": "2025-02-05",
+      "dataCheckout": "2025-02-08",
+      "valorTotal": 900,
+      "taxaPlataforma": 135,
+      "custosExtras": 50
+    },
+    {
+      "hospede": "Lisandra",
+      "plataforma": "Outro",
+      "dataCheckin": "2026-10-22",
+      "dataCheckout": "2026-11-07",
+      "valorTotal": 5000,
+      "taxaPlataforma": 500,
+      "custosExtras": 20,
+      "id": 3
+    },
+    {
+      "hospede": "João Silva",
+      "plataforma": "Booking",
+      "dataCheckin": "2026-10-01",
+      "dataCheckout": "2026-11-01",
+      "valorTotal": 2000,
+      "taxaPlataforma": 0,
+      "custosExtras": 0,
+      "id": 4
+    }
+  ]
+}
